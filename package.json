@@ -1,0 +1,18 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "",
+  "module": "module",
+  "scripts": {
+    "start": "npx nodemon"
+  },
+  "keywords": [],
+  "author": "Kevin Uehara",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.21",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
